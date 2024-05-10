@@ -3,6 +3,9 @@
 ## Overview
 This project aims to develop and evaluate a convolutional neural network (CNN) model for land cover classification using satellite imagery. The project utilizes the EuroSAT dataset, a widely used benchmark dataset for land cover classification tasks.
 
+## Project Image
+![Project Image](https://github.com/Nandini-Kanawade/Land-Type-Classification/blob/847b638f896ee75bc2aaed829c4c2f6a0619484f/WebSite_Image)
+
 ### Dataset
 The EuroSAT dataset consists of satellite images covering 13 spectral bands at a spatial resolution of 10 meters per pixel. It contains 27,000 labeled images covering 10 different land cover classes including Annual Crop, Pasture, Forest, Highway, Residential, and more.
 
